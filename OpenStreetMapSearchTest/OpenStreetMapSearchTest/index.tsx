@@ -1,0 +1,1 @@
+// This file was renamed from index.ts to index.tsx to support JSX syntax. No code changes are needed. 
