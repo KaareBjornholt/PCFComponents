@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "DurationPicker harness",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "DurationPicker", "start"],
+      "port": 8181
+    }
+  ]
+}
